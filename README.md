@@ -1,6 +1,6 @@
 # CV3
 My first personal website using HTML and CSS.
-This is a basic single page website, in which I have added my education status and my technical skills.
+This is a basic single page website, in which I have added my education status and my technical skills. The link to the site is given in my bio.
 
 ![Screenshot (3511)](https://user-images.githubusercontent.com/90545700/143816922-dcfdc18f-ffa9-4b11-b448-6c57188cbad3.png)
 
